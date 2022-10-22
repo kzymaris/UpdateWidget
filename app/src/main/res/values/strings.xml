@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Light Switch</string>
+    <string name="button_text">Toggle Lights</string>
+</resources>
